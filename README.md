@@ -1,4 +1,8 @@
 
+- [Dataset](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
+- [Data Dictionary](https://github.com/biancaportela/customer_churn_segmentation/blob/main/data/data_dictionary.md)
+
+- [Final project](https://github.com/biancaportela/customer_churn_segmentation/blob/main/analysis.ipynb)
 
 
 
@@ -139,7 +143,7 @@ Firstly, I performed data cleaning, followed by transforming each column into th
 
 # References
 
-[Credit Card customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers), Kaggle
+[Credit Card customers data](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers), Kaggle
 
 [Integrated Churn Prediction and Customer Segmentation Framework for Telco Business](https://ieeexplore.ieee.org/document/9406002), Wu, Shuli, et al (2021).
 
